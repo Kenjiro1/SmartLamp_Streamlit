@@ -5,7 +5,7 @@ import json
 import streamlit.components.v1 as components
 
 # --- CONFIGURAÇÕES ---
-BROKER_IP = "54.162.125.159"
+BROKER_IP = "3.88.220.198"
 BROKER_PORT = 1883
 TOPICO_COMANDO = "/TEF/lamp001/cmd"
 ORION_URL = "http://54.162.125.159:1026/v2/entities/urn:ngsi-ld:lamp:001/attrs"
